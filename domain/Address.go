@@ -1,4 +1,4 @@
-package address
+package domain
 
 type Address struct {
 	Country      string `json:"country"`
